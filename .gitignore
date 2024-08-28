@@ -1,0 +1,7 @@
+.env
+.venv/
+
+data/*
+
+# do not ignore
+!data/inputsample/
